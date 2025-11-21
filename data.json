@@ -1,0 +1,92 @@
+[
+    {
+        "Nome": "Tormenta 20 - Edição Jogo do Ano",
+        "Descrição": "Tormenta 20 é um dos sistemas de RPG mais populares do Brasil. Publicado pela Jambô Editora, ele celebra 20 anos de aventuras no mundo de Arton, possuindo um sistema baseado na OGL (Open Game License) da 3ª edição de Dungeons & Dragons: O sistema utiliza dados de 20 faces (d20) para resolver ações e combates, com regras que equilibram simplicidade e profundidade. O sistema de magias, que funciona através de Pontos de Magia e Aprimoramentos, ao invés do vanciano tradicional, permite uma maior flexbilidade para os jogadores e mestres.",
+        "Editora": "Jambô Editora",
+        "Link": "https://jamboeditora.com.br/produto/tormenta20-edicao-jogo-do-ano/",
+        "Imagem": "imagens/tormenta20.jpg"
+    },
+
+    {
+        "Nome": "Vaesen - Roleplaying de horror nórdico",
+        "Descrição": "Vaesen é um RPG de horror nórdico que mergulha os jogadores em um mundo repleto de criaturas folclóricas e mitológicas da Escandinávia. Criado por Nils Hintze e publicado pela Free League Publishing, o sistema utiliza o mecanismo Year Zero Engine, conhecido por sua simplicidade e foco na narrativa.",
+        "Editora": "Retropunk", 
+        "Link": "https://loja.retropunk.com.br/index.php?id_product=826&rewrite=vaesen-livro-de-regras&controller=product",
+        "Imagem": "imagens/vaesen.jpg"
+    },
+
+    {
+        "Nome": "Lancer",
+        "Descrição": "Lancer é um RPG de ficção científica focado em pilotos de mechas e seus robôs gigantes. O jogo combina uma narrativa rica e um sistema de combate tático e customizável, onde os jogadores exploram uma galáxia vasta e cheia de mistérios 15.000 anos no futuro.",
+        "Editora": "Tria Editora",
+        "Link": "https://triaeditora.com.br/produto/lancer-rpg-de-mechas-impresso/",
+        "Imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2U6f4a_4K-I-p-2nZ_y-gY_gY_gY_gY_gY_gY_gY_gY_gY_g&s"
+    },
+
+    {
+        "Nome": "Fabula Ultima",
+        "Descrição": "Inspirado nos clássicos JRPGs (Japanese Role-Playing Games), Fabula Ultima é um jogo que permite criar histórias épicas em mundos de fantasia vibrantes. Com regras que incentivam a criatividade e a colaboração, os jogadores podem construir seus próprios mundos e heróis para aventuras memoráveis.",
+        "Editora": "Jambô Editora",
+        "Link": "https://jamboeditora.com.br/categoria-produto/rpg/fabula-ultima/",
+        "Imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2U6f4a_4K-I-p-2nZ_y-gY_gY_gY_gY_gY_gY_gY_gY_gY_g&s"
+    },
+
+    {
+        "Nome": "Tales From The Loop",
+        "Descrição": "Neste RPG, os jogadores são adolescentes nos anos 80 que nunca existiram, resolvendo mistérios extraordinários em uma cidade construída ao redor do Loop, o maior acelerador de partículas do mundo. O jogo foca na exploração e na nostalgia, com regras simples baseadas no sistema Year Zero Engine.",
+        "Editora": "Galápagos Jogos",
+        "Link": "https://www.playeasy.com.br/tales-from-the-loop/p",
+        "Imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2U6f4a_4K-I-p-2nZ_y-gY_gY_gY_gY_gY_gY_gY_gY_gY_g&s"
+    },
+
+    {
+        "Nome": "3DeT Victory",
+        "Descrição": "A mais nova versão do clássico RPG brasileiro, 3DeT (Defensores de Tóquio) Victory é um sistema rápido, simples e divertido, ideal para emular animes e mangás. Com sua famosa construção de personagem baseada em pontos, permite criar heróis e vilões de forma ágil para qualquer tipo de aventura.",
+        "Editora": "Jambô Editora",
+        "Link": "https://jamboeditora.com.br/categoria-produto/rpg/3det-victory/",
+        "Imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2U6f4a_4K-I-p-2nZ_y-gY_gY_gY_gY_gY_gY_gY_gY_gY_g&s"
+    },
+
+    {
+        "Nome": "Blue Rose",
+        "Descrição": "Blue Rose é um RPG de fantasia romântica que utiliza o sistema AGE (Adventure Game Engine). O cenário é focado em intrigas políticas, diplomacia e relacionamentos em um reino que luta para manter seus ideais de igualdade e paz. É um jogo sobre heróis que defendem o bem com o poder da convicção e do coração.",
+        "Editora": "Jambô Editora",
+        "Link": "https://jamboeditora.com.br/produto/blue-rose/",
+        "Imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2U6f4a_4K-I-p-2nZ_y-gY_gY_gY_gY_gY_gY_gY_gY_gY_g&s"
+    },
+
+    {
+        "Nome": "Masks: A New Generation",
+        "Descrição": "Em Masks, você joga como um jovem super-herói em uma cidade com gerações de heróis e vilões. O jogo, baseado no sistema PbtA (Powered by the Apocalypse), foca nos desafios de crescer, encontrar sua identidade e lutar pelo que você acredita, enquanto lida com as expectativas dos heróis mais velhos.",
+        "Editora": "Circuito Camaleão",
+        "Link": "https://www.catarse.me/masksanovageracao",
+        "Imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2U6f4a_4K-I-p-2nZ_y-gY_gY_gY_gY_gY_gY_gY_gY_gY_g&s"
+    },
+
+    {
+        "Nome": "City of Mist",
+        "Descrição": "City of Mist é um RPG de investigação noir com um toque de fantasia urbana. Os jogadores são pessoas comuns que se tornam portais para lendas e mitos, ganhando poderes extraordinários. O jogo mistura a resolução de crimes com a luta interna entre a vida mundana e a magia que desperta dentro deles.",
+        "Editora": "Retropunk",
+        "Link": "https://retropunk.com.br/loja/28-city-of-mist",
+        "Imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2U6f4a_4K-I-p-2nZ_y-gY_gY_gY_gY_gY_gY_gY_gY_gY_g&s"
+    },
+
+    {
+        "Nome": "Pathfinder 2ª Edição",
+        "Descrição": "Pathfinder 2ª Edição é um RPG de fantasia que oferece um mundo de aventuras ilimitado. Os jogadores podem escolher entre diversas ancestralidades, como elfo, humano e goblin, e classes como alquimista, feiticeiro e guerreiro para criar heróis lendários. Com regras fáceis de aprender, mas com grande profundidade tática e de personalização, é um dos sistemas mais populares do mundo. [2, 7, 8]",
+        "Editora": "New Order Editora",
+        "Link": "https://loja.newordereditora.com.br/rpg/pathfinder-2e",
+        "Imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2U6f4a_4K-I-p-2nZ_y-gY_gY_gY_gY_gY_gY_gY_gY_gY_g&s"
+    },
+
+    {
+        "Nome": "Old-School Essentials",
+        "Descrição": "Old-School Essentials (OSE) é um RPG que emula o estilo de jogo dos anos 80, com foco em exploração de masmorras, perigos mortais e tesouros fantásticos. Com regras leves e modulares baseadas no clássico B/X, ele é conhecido por sua clareza e organização, sendo um ponto de partida ideal para o movimento OSR (Old School Renaissance).",
+        "Editora": "RPG Planet",
+        "Link": "https://rpgplanetpress.com.br/collections/old-school-essentials",
+        "Imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2U6f4a_4K-I-p-2nZ_y-gY_gY_gY_gY_gY_gY_gY_gY_gY_g&s"
+    }
+
+
+
+]
